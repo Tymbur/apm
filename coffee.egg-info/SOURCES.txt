@@ -1,0 +1,13 @@
+CONTRIBUTING.md
+LICENSE-APACHE
+LICENSE-MIT
+LICENSE.md
+MANIFEST.in
+README.md
+README.rst
+setup.py
+coffee/__init__.py
+coffee.egg-info/PKG-INFO
+coffee.egg-info/SOURCES.txt
+coffee.egg-info/dependency_links.txt
+coffee.egg-info/top_level.txt
